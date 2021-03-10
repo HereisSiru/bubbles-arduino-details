@@ -1,0 +1,2 @@
+# bubbles-arduino-details
+Prototype
